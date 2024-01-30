@@ -1,4 +1,4 @@
-![Hi Study](https://files.oaiusercontent.com/file-oxV4GJd7oRHt84ChrzkHRh5A?se=2024-01-30T03%3A29%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D508f9e34-1589-4cfe-8a99-70a62133518f.webp&sig=arzh/YtIK3IOexHsW%2BXrIWfSVVz%2Blpoz%2B6O0DhNTxE0%3D)
+![Hi Study](https://i.imgur.com/Gsv47Xr.png)
 
 <h3 align="center">Open Source Study Group</h3>
 <p align="center">
@@ -6,8 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Isak-toast/HiStudy">
-    <img alt="Awesome" src="https://img.shields.io/badge/since-2024.01.29-333333.svg?style=flat-square)
-">
+    <img alt="Awesome" src="https://img.shields.io/badge/since-2024.01.29">
   </a>
 </p>
 
@@ -20,13 +19,13 @@
 - [Guidelines](#guidelines)
 - [Team](#team)
 
-### 📍 CS Study Overview
+## 📍 CS Study Overview
 
 1. 스터디 그룹은 개발에 관련된 구조화되고 포괄적인 학습 계획을 제공하는데 전념합니다.
 2. 우리의 목표는 멤버들이 CS의 기본적이고 고급 개념을 학습하고 지식을 공유할 수 있는 환경을 만드는 것입니다.
 
 
-### 📍 Study Plan
+## 📍 Study Plan
 
 **1. 핵심 CS**
 - 프로그래밍
@@ -53,13 +52,13 @@
 - 특정 프로젝트에 사용할 수 있는 개념을 작성해봅니다
 
 
-### 📍 Goals
+## 📍 Goals
 
 1. CS에 대한 원만한 지식 기반을 획득합니다.
 2. 멤버 간 상호작용으로 도울 수 있는 커뮤니티를 조성합니다.
 3. 멤버들이 실제 프로젝트에 참여하고 포트폴리오를 구축할 수 있도록 합니다.
 
-### 📍 Guidelines
+## 📍 Guidelines
 
 1. 스터디 내용은 다음과 같습니다
 - 주제 선정 - 발표 준비 - 발표 - 토의
@@ -69,7 +68,7 @@
 3. 불참 시에 다른 멤버들에게 사유를 이야기합니다.
 
 
-### 📍 Members
+## 📍 Members
 
 |[![](https://github.com/Isak-toast.png?width=200px)](https://github.com/Isak-toast)|[![](https://github.com/kdh97.png?width=200px)](https://github.com/kdh97)|[![](https://github.com/ChoiJiSung123.png?width=200px)](https://github.com/ChoiJiSung123)|[![](https://github.com/Jeonglever.png?width=200px)](https://github.com/Jeonglever)|[![](https://github.com/Jeremy-Fe.png?width=400px)](https://github.com/Jeremy-Fe)|[![](https://github.com/leenapark.png?width=400px)](https://github.com/leenapark)|||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
