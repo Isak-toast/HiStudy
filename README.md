@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Isak-toast/HiStudy">
-    <img alt="Awesome" src="https://img.shields.io/badge/since-2024.01.29">
+    <img alt="Awesome" src="https://img.shields.io/badge/since-2024.01.29-0">
   </a>
 </p>
 
