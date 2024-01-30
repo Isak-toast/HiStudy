@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/Gsv47Xr.png" align="center" width="400">
+<div align="center">
+  <img src="https://i.imgur.com/Gsv47Xr.png" width="400">
+</div>
 
 <h3 align="center">Open Source Study Group</h3>
 <p align="center">
