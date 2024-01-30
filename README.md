@@ -1,4 +1,4 @@
-![Hi Study](https://i.imgur.com/Gsv47Xr.png)
+<img src="https://i.imgur.com/Gsv47Xr.png" width="400">
 
 <h3 align="center">Open Source Study Group</h3>
 <p align="center">
