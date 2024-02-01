@@ -72,6 +72,6 @@
 
 ## 📍 Members
 
-|[![](https://github.com/Isak-toast.png?width=200px)](https://github.com/Isak-toast)|[![](https://github.com/kdh97.png?width=200px)](https://github.com/kdh97)|[![](https://github.com/ChoiJiSung123.png?width=200px)](https://github.com/ChoiJiSung123)|[![](https://github.com/Jeonglever.png?width=200px)](https://github.com/Jeonglever)|[![](https://github.com/Jeremy-Fe.png?width=400px)](https://github.com/Jeremy-Fe)|[![](https://github.com/leenapark.png?width=400px)](https://github.com/leenapark)|||
+|[![](https://github.com/Isak-toast.png?width=200px)](https://github.com/Isak-toast)|[![](https://github.com/kdh97.png?width=200px)](https://github.com/kdh97)|[![](https://github.com/ChoiJiSung123.png?width=200px)](https://github.com/ChoiJiSung123)|[![](https://github.com/Jeonglever.png?width=200px)](https://github.com/Jeonglever)|[![](https://github.com/Jeremy-Fe.png?width=400px)](https://github.com/Jeremy-Fe)|[![](https://github.com/leenapark.png?width=400px)](https://github.com/leenapark)| [![](https://github.com/heoap9.png?width=200px)](https://github.com/heoap9) | [![](https://github.com/sorayayat.png?width=200px)](https://github.com/sorayayat) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 이삭 | 동호  | 지성 | 혜연 | 우철 | 리나 | | |
+| 이삭 | 동호  | 지성 | 혜연 | 우철 | 리나 | 성근 | 소라 |
