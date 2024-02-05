@@ -18,8 +18,6 @@
 
     이러한 os의 핵심 서비스를 담당하는 부분을 커널(Kernel)이라고 합니다.
 
-    ![Alt text](image.png)
-
     
 ## 2. process & Threads
 
