@@ -5,7 +5,7 @@
 
 1) 운영체재의 구조
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 os 그림1
 
 
@@ -14,7 +14,7 @@ os 그림1
 
 - 커널과 인터페이스를 분리하여 같은 커널을 사용하더라도 다른 인터페이스의 형태로 제작할 수 있다.
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 커널구조 그림2
 
 2) 커널의 시스템 호출
@@ -25,4 +25,4 @@ os 그림1
 - 운영체제는 커널이 제공하는 서비스를 시스템 호출로 제한하고 다른 방법으로 들어오지 못하게 컴퓨터 자원을 보호한다.
 
 - 2-1) 디바이스 드라이버
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
