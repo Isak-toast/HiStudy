@@ -49,6 +49,9 @@
 
 GoF의 디자인 패턴은 크게 **생성(Creational), 구조(Structural), 그리고 행위(Behavioral) 패턴**으로 분류된다.
 
+![Alt text](images/image.png)
+
+---
 #### 생성 패턴(Creational Pattern)
 
 1. Singleton(싱글톤 패턴): 하나의 클래스 인스턴스를 전역에서 접근 가능하게 하면서 해당 인스턴스가 한 번만 생성되도록 보장하는 패턴이다.
