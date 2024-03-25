@@ -1,4 +1,4 @@
-bㅠbㅠbbbbbㅠbvbB# 트랜잭션의 ACID 속성에 대해 설명해주세요.
+# 트랜잭션의 ACID 속성에 대해 설명해주세요.
 
 > 작성자 : [정혜연](https://github.com/jeonglever)
 
