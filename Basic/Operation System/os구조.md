@@ -1,6 +1,6 @@
 # OS - Operating System
 
-> 작성자 : [배소라] (https://github.com/sorayayat)
+> 작성자 : [배소라](https://github.com/sorayayat)
 ### os 구조 - 커널? 운영체제?! 뭔데?!?!
 
 1) 운영체재의 구조

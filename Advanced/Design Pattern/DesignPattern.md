@@ -1,6 +1,6 @@
 # Design Pattern (Basic)
 
-> 작성자 : [배소라] (https://github.com/sorayayat)
+> 작성자 : [배소라](https://github.com/sorayayat)
 
 <details>
 <summary>목차</summary>

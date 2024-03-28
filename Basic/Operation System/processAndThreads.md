@@ -1,6 +1,6 @@
 # 프로세스와 스레드 차이점
 
-작성자 : [배소라] (https://github.com/sorayayat)
+작성자 : [배소라](https://github.com/sorayayat)
 ### OS - Operating System
 
 ## 1. os
